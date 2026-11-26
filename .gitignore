@@ -2,3 +2,9 @@
 *.zip
 __pycache__/
 *.py[cod]
+*.app/
+*.dmg
+*.pkg
+language_server*
+build*/
+receipt.json
