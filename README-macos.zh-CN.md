@@ -7,7 +7,7 @@
 [返回英文 README（Windows 与 macOS）](README.md)
 
 本项目为非官方项目，与 Antigravity 或 Google 无关联。仓库名称仍为
-`antigravity-fork-windows`，原 Windows 脚本仍为 `patch_antigravity.py`。
+`antigravity-fork`，原 Windows 脚本仍为 `patch_antigravity.py`。
 仓库不分发 Antigravity 应用二进制文件或其捆绑资源。MIT 许可证仅适用于本仓库
 脚本，不授予 Antigravity 或其资源的使用权。
 
@@ -51,8 +51,8 @@
    脚本，不能只下载 Windows 脚本。在终端执行：
 
    ```sh
-   git clone https://github.com/tianyu-z/antigravity-fork-windows.git
-   cd antigravity-fork-windows
+   git clone https://github.com/tianyu-z/antigravity-fork.git
+   cd antigravity-fork
    ```
 
    后续命令均在此仓库目录运行。

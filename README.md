@@ -11,7 +11,7 @@ For macOS instructions in Chinese, see [macOS 安装与恢复指南（简体中�
 
 This is an unofficial project and is not affiliated with Antigravity or Google.
 No Antigravity application binaries or bundled resources are distributed here.
-The repository remains `antigravity-fork-windows`; the original Windows patcher
+The repository remains `antigravity-fork`; the original Windows patcher
 is still `patch_antigravity.py`.
 
 ## Compatibility
@@ -56,8 +56,8 @@ all repository Python scripts together, including `macos_app.py` and
 not sufficient for the Mac workflow.
 
 ```sh
-git clone https://github.com/tianyu-z/antigravity-fork-windows.git
-cd antigravity-fork-windows
+git clone https://github.com/tianyu-z/antigravity-fork.git
+cd antigravity-fork
 ```
 
 Run the commands below from this repository directory, using PowerShell on
